@@ -1,0 +1,9 @@
+cd docs-vitepress
+npm install
+npm run dev      # → http://localhost:5173
+
+git init
+
+git remote add origin https://github.com/FaithfulDeveloper/costar-api.git
+
+npm run dev  
