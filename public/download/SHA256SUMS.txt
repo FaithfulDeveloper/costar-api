@@ -1,0 +1,5 @@
+﻿131cbd7c13260a641f8751799b24b15ce830cd5bb328d2796ace8c0c90e58928  costar-api-0.1.0.aar
+3be351e30783cb50b72e4bc2c56d208cb77740dfd3bcad29ec795b51ddbc1bcf  costar-adapter-mock-0.1.0.aar
+dc15d10bc5d1dc7a90e09deffc22ee8849b045af8b537868a20916adbb0dfea7  costar-adapter-vendor-b-0.1.0.aar
+1d63bd1378f783bdd1f9e8086ee919b995b06285a7bee7c0329844e07f778e59  costar-adapter-vendor-c-0.1.0.aar
+735546103f502668cc94b00962205a42dfde17ab708b4a687c84cc6544f1fa2a  costar-samples-0.1.0.zip
